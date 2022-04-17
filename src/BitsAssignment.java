@@ -1,8 +1,7 @@
 
 public class BitsAssignment {
 public static void main(String args[]) {
-	int commit=1;
+	int commit=2;
 	System.out.println("My sample git project :)"+commit);
-	
 }
 }
