@@ -1,0 +1,15 @@
+
+public class BitsAssignment {
+public static void main(String args[]) {
+<<<<<<< HEAD
+	int commit=2;
+	System.out.println("My sample git project :)"+commit);
+||||||| 5674e47
+	System.out.println("My sample git project :)");
+=======
+	int commit=1;
+	System.out.println("My sample git project :)"+commit);
+	
+>>>>>>> origin/development
+}
+}
